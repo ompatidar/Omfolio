@@ -39,14 +39,14 @@ Here's the portfolio of me
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.linkedin.com/in/akshat-jalan/">
+  <a href="https://www.linkedin.com/in/om-patidar/">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/LinkedIN.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.instagram.com/akshatxjalan/">
+  <a href="https://www.instagram.com/om_patidar_/">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Instagram.svg" width="30" height="30" hspace="20">
   </a>
-    <a href="mailto:jalanakshat2@gmail.com">
+    <a href="patidarhariom918@gmail.com">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Gmail.svg"  width="30" height="30" hspace="20">
   </a>
 
