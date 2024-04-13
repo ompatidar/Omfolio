@@ -4,11 +4,11 @@ Here's the portfolio of me
 
 <p align="center">This website is an opportunity to demonstrate a clean and minimum <b>Portfolio</b> layout of information about me and to provide further information (via links) about my work.<p>
 
-  ### <code>Live Demo</code> - **[Portfolio Website](https://akshatjalan.github.io/devfolio/)**
+  ### <code>Live Demo</code> - **[Portfolio Website](https://ompatidar.github.io/Omfolio/)**
 
 # Website Preview
 
- ![Alt text](https://github.com/Akshatjalan/devfolio/blob/main/images/bentoPortfolio.png?raw=true "Main Page")
+ ![Alt text](https://ompatidar.github.io/Omfolio/ "Main Page")
   This is a portfolio of my work, including both my personal and academic projects.
 
 :star:  Star me on GitHub — it helps!
@@ -31,11 +31,11 @@ Here's the portfolio of me
 
 ## Contact 
  <h3 align="center">
-  <code> Akshat Jalan </code>
+  <code> Hariom Patidar </code>
 </h3>
   <p align="center"> 
 
-  <a href="https://github.com/Akshatjalan">
+  <a href="https://github.com/ompatidar">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
   </a>
 
