@@ -1,6 +1,6 @@
 # Omfolio
 Here's the portfolio of me 
-<h1 align="center">Modern DevFolio</h1>
+<h1 align="center">Modern Omfolio</h1>
 
 <p align="center">This website is an opportunity to demonstrate a clean and minimum <b>Portfolio</b> layout of information about me and to provide further information (via links) about my work.<p>
 
